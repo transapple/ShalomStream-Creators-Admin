@@ -1,0 +1,18 @@
+{
+  "id": "./index.html",
+  "name": "ShalomStream Admin",
+  "short_name": "Admin",
+  "description": "ShalomStream administration: manage creators, content, accounts and messages.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#062a78",
+  "theme_color": "#062a78",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    { "src": "logo.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "logo-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "logo-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
